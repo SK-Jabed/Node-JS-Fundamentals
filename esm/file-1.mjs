@@ -16,4 +16,4 @@ const c = 50;
 
 export { a, b };
 
-export default add
+export default add;
