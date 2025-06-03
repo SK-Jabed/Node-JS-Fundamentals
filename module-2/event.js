@@ -2,6 +2,9 @@ const EventEmitter = require("events");
 
 class SchoolBell extends EventEmitter {}
 
+
+
+
 const schoolBell = new SchoolBell();
 
 schoolBell.on("ring", () => {
