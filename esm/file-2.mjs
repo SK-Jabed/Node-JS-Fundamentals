@@ -5,7 +5,7 @@ import ADD, { a, b } from "./file-2.mjs";
 
 console.log(a);
 console.log(b);
-console.log(ADD(2,3));
+console.log(ADD(2, 3));
 
 // console.log(A3);
 // console.log(ADD3(2,3,4));
